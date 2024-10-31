@@ -2,6 +2,7 @@
 This project is just a simple movie website, but it is important because it helped me learn more about React, React Rooter, and Tailwind.
 
 
+
 ![Captura de tela 2024-10-30 141620](https://github.com/user-attachments/assets/7fdb3ca9-e144-44dd-ad18-4e401a8709ef)
 
 Here you can see the front of the page, where I created a slide with some movies these slides have a duration of 5 seconds before they pass to the other.
